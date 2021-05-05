@@ -1,4 +1,6 @@
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() {
+java.lang.System.out.print("hi");
+}
 
 module dummy_android {
 java.lang.System.out.print( 6 );
